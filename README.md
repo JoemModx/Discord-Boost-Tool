@@ -19,7 +19,7 @@
 Please ⭐ This Repo If You Like It!
 </h3>
 <h3 align="center">
-<a href="https://wanted.lol/cel">CONTACT ME HERE</a>
+<a href="https://guns.lol/law">CONTACT ME HERE</a>
 </h3>
 
 
