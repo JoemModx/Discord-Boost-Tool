@@ -419,8 +419,8 @@ def thread_boost(invite, amount, months, nick):
 
 print(f'''{Style.BRIGHT}{Fore.MAGENTA}
                      ╔═══════════════════════════════════════════════════════════════════════════════════╗
-                     ║                              ║      @cel       ║                                  ║
-                     ║                              ║   GitHub/celgz  ║                                  ║
+                     ║                              ║   By @opsec     ║                                  ║
+                     ║                              ║ GitHub/opsector ║                                  ║
                      ║                              ╚═════════════════╝                                  ║
                      ║                                                                                   ╣
                      ║                                                                                   ║
