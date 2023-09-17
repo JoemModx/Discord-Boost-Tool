@@ -28,7 +28,7 @@ class Fore:
     UNDERLINE = '\033[4m'
     RESET  = '\033[0m'
     
-os.system(f"title CEL BOOST BOT")    
+os.system(f"title OPSEC BOOST TOOL")    
 fingerprints = json.load(open("fingerprints.json", encoding="utf-8"))
 
 
@@ -420,7 +420,7 @@ def thread_boost(invite, amount, months, nick):
 print(f'''{Style.BRIGHT}{Fore.MAGENTA}
                      ╔═══════════════════════════════════════════════════════════════════════════════════╗
                      ║                              ║   By @opsec     ║                                  ║
-                     ║                              ║ GitHub/opsector ║                                  ║
+                     ║                              ║  GitHub/opsecs  ║                                  ║
                      ║                              ╚═════════════════╝                                  ║
                      ║                                                                                   ╣
                      ║                                                                                   ║
