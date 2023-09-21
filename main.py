@@ -1,5 +1,5 @@
 #                                                                                                             DONT TOUCH ANYTHING IN HERE UNLESS YOU KNOW WHAT YOU'RE DOING
-# Author: @cel
+# Author: @opsec
 from colorama import Style
 import discord, datetime, time, requests, json, threading, os, random, httpx, sys
 import tls_client
@@ -8,6 +8,7 @@ from pathlib import Path
 from colorama import Fore
 from threading import Thread
 import hashlib
+
 
 def cls(): #clears the terminal
     os.system('cls' if os.name =='nt' else 'clear')
@@ -28,7 +29,7 @@ class Fore:
     UNDERLINE = '\033[4m'
     RESET  = '\033[0m'
     
-os.system(f"title OPSEC BOOST TOOL")    
+os.system(f"title KARMA BOOST TOOL")    
 fingerprints = json.load(open("fingerprints.json", encoding="utf-8"))
 
 
@@ -61,11 +62,11 @@ def validateInvite(invite:str): #checks if the invite passed is valid or not
 
 def sprint(message, type):
     if type == True:
-        print(f"{Style.BRIGHT}{Fore.MAGENTA}[+]{Style.BRIGHT} {message}{Fore.RESET}{Style.RESET_ALL}")
+        print(f"{Style.BRIGHT}{Fore.CYAN}[+]{Style.BRIGHT} {message}{Fore.RESET}{Style.RESET_ALL}")
     if type == False:
-        print(f"{Style.BRIGHT}{Fore.MAGENTA}[-]{Style.BRIGHT} {message}{Fore.RESET}{Style.RESET_ALL}")
+        print(f"{Style.BRIGHT}{Fore.CYAN}[-]{Style.BRIGHT} {message}{Fore.RESET}{Style.RESET_ALL}")
     if type == "blue":
-        print(f"{Style.BRIGHT}{Fore.MAGENTA}{message}{Fore.RESET}{Style.RESET_ALL}")    
+        print(f"{Style.BRIGHT}{Fore.CYAN}{message}{Fore.RESET}{Style.RESET_ALL}")    
         
 
 def get_all_tokens(filename:str): #returns all tokens in a file as token from email:password:token
@@ -417,28 +418,22 @@ def thread_boost(invite, amount, months, nick):
 
 
 
-print(f'''{Style.BRIGHT}{Fore.MAGENTA}
-                     ╔═══════════════════════════════════════════════════════════════════════════════════╗
-                     ║                              ║   By @opsec     ║                                  ║
-                     ║                              ║  GitHub/opsecs  ║                                  ║
-                     ║                              ╚═════════════════╝                                  ║
-                     ║                                                                                   ╣
-                     ║                                                                                   ║
-                     ║     ██████╗  ██████╗  ██████╗ ███████╗████████╗    ██████╗  ██████╗ ████████╗     ║ 
-                     ║     ██╔══██╗██╔═══██╗██╔═══██╗██╔════╝╚══██╔══╝    ██╔══██╗██╔═══██╗╚══██╔══╝     ║
-                     ║     ██████╔╝██║   ██║██║   ██║███████╗   ██║       ██████╔╝██║   ██║   ██║        ║
-                     ║     ██╔══██╗██║   ██║██║   ██║╚════██║   ██║       ██╔══██╗██║   ██║   ██║        ║
-                     ║     ██████╔╝╚██████╔╝╚██████╔╝███████║   ██║       ██████╔╝╚██████╔╝   ██║        ║
-                     ║     ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝       ╚═════╝  ╚═════╝    ╚═╝        ║
-                     ║                                                                                   ║                              
-                     ║                                                                                   ║
-                     ║                                                                                   ║
-                     ║                                                                                   ║
-                     ╚═══════════════════════════════════════════════════════════════════════════════════╝ ''')	
-
-
+print(f'''{Style.BRIGHT}{Fore.CYAN} {Fore.MAGENTA}
+                    ██████╗  ██████╗  ██████╗ ███████╗████████╗    ████████╗ ██████╗  ██████╗ ██╗     
+                    ██╔══██╗██╔═══██╗██╔═══██╗██╔════╝╚══██╔══╝    ╚══██╔══╝██╔═══██╗██╔═══██╗██║     
+                    ██████╔╝██║   ██║██║   ██║███████╗   ██║          ██║   ██║   ██║██║   ██║██║     
+                    ██╔══██╗██║   ██║██║   ██║╚════██║   ██║          ██║   ██║   ██║██║   ██║██║     
+                    ██████╔╝╚██████╔╝╚██████╔╝███████║   ██║          ██║   ╚██████╔╝╚██████╔╝███████╗
+                    ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝          ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝
+                                             
+                                              ┌────────────────────┐             
+                                              │      By @opsec     │
+                                              │  Github.com/opsecs │
+                                              │      .gg/gui       │                                                                                         
+                                              └────────────────────┘                              ''')	
+                  
 def boost_menu():
-    print(Fore.GREEN + "Boost complete!" + Style.RESET_ALL)
+    print(Fore.GREEN)
     while True:
         choice = input(Fore.MAGENTA + "[!] Press C to continue or X to close: " + Style.RESET_ALL)
         if choice.lower() == 'c':
@@ -486,7 +481,7 @@ def menu():
     time_went = round(end - go, 5)
     print()
     print(f"\n{Style.BRIGHT}{Fore.GREEN}Time Taken: {time_went} seconds\nSuccessful Boosts: {len(variables.success_tokens)*2}")
-    print(f"{Style.BRIGHT}{Fore.MAGENTA}Failed Boosts: {len(variables.failed_tokens)*2}{Fore.RESET}")
+    print(f"{Style.BRIGHT}{Fore.CYAN}Failed Boosts: {len(variables.failed_tokens)*2}{Fore.RESET}")
 
     boost_menu()
 
