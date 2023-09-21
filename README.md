@@ -13,7 +13,7 @@
 <a href="https://discord.gg/gui">JOIN THE DISCORD SERVER</a>
 </h3>
 
-![image](https://cdn.discordapp.com/attachments/1154132686642888756/1154490285791903884/image.png) 
+![image](https://cdn.discordapp.com/attachments/1154132686642888756/1154490383330451568/image.png) 
 
 <h3 align="center">
 Please ⭐ This Repo If You Like It!
