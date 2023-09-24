@@ -259,9 +259,9 @@ def change_guild_name(session, headers, server_id, nick):
 #boost server
 def boost_server(invite:str , months:int, token:str, thread:int, nick: str):
     if months == 1:
-        filename = "input/1m_tokens.txt"
+        filename = "input/1m.txt"
     if months == 3:
-        filename = "input/3m_tokens.txt"
+        filename = "input/3m.txt"
     
     try:
         session = tls_client.Session(ja3_string = fingerprints[random.randint(0, (len(fingerprints)-1))]['ja3'], client_identifier = random.choice(client_identifiers))
@@ -298,7 +298,7 @@ def boost_server(invite:str , months:int, token:str, thread:int, nick: str):
                         else:
                             sprint(f"[{thread}] ERROR BOOSTING: {token}", False)
                             if token not in variables.failed_tokens:
-                                open("error_boosting.txt", "a").write(f"\n{token}")
+                                open("errors.txt", "a").write(f"\n{token}")
                                 variables.failed_tokens.append(token)
                     remove(token, filename)
 
