@@ -427,9 +427,9 @@ print(f'''{Style.BRIGHT}{Fore.CYAN} {Fore.MAGENTA}
                     ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝          ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝
                                              
                                               ┌────────────────────┐             
-                                              │      By @opsec     │
-                                              │  Github.com/opsecs │
-                                              │      .gg/gui       │                                                                                         
+                                              │    By @federal     │
+                                              │ Github.com/antifed │
+                                              │   fraud.lol/obey   │                                                                                         
                                               └────────────────────┘                              ''')	
                   
 def boost_menu():
