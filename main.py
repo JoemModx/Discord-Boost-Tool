@@ -426,11 +426,11 @@ print(f'''{Style.BRIGHT}{Fore.CYAN} {Fore.MAGENTA}
                     ██████╔╝╚██████╔╝╚██████╔╝███████║   ██║          ██║   ╚██████╔╝╚██████╔╝███████╗
                     ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝          ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝
                                              
-                                              ┌────────────────────┐             
-                                              │    By @federal     │
-                                              │ Github.com/antifed │
-                                              │   fraud.lol/obey   │                                                                                         
-                                              └────────────────────┘                              ''')	
+                                              ┌────────────────────────┐             
+                                              │       By @solve        │
+                                              │ Github.com/internalvpn │
+                                              │     fraud.lol/solve    │                                                                                         
+                                              └────────────────────────┘                              ''')	
                   
 def boost_menu():
     print(Fore.GREEN)
