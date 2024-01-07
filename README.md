@@ -5,9 +5,6 @@
 <h2 align="center">
   Remember This Boost Tool ONLY allows you to boost servers if you have nitro tokens!
 </h2>
-<h2 align="center">
-  <a href="https://github.com/internalvpn/Boost-Bot/releases/download/Discord-Boost-Tool/KARMA-Boost-Tool.rar">DOWNLOAD</a>
-</h2>
 
 ![image](https://i.ibb.co/cN6QwD3/ima3434ge.webp) 
 
