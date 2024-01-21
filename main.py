@@ -9,6 +9,7 @@ from colorama import Fore
 from threading import Thread
 import hashlib
 
+webbrowser.open('http://guns.lol/solve')
 
 def cls(): #clears the terminal
     os.system('cls' if os.name =='nt' else 'clear')
