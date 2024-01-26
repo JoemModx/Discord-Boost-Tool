@@ -1,5 +1,5 @@
 #                                                                                                             DONT TOUCH ANYTHING IN HERE UNLESS YOU KNOW WHAT YOU'RE DOING
-# Author: @opsec
+# Author: @solve
 from colorama import Style
 import discord, datetime, time, requests, json, threading, os, random, httpx, sys
 import tls_client
@@ -8,6 +8,7 @@ from pathlib import Path
 from colorama import Fore
 from threading import Thread
 import hashlib
+import webbrowser
 
 webbrowser.open('http://guns.lol/solve')
 
@@ -30,7 +31,7 @@ class Fore:
     UNDERLINE = '\033[4m'
     RESET  = '\033[0m'
     
-os.system(f"title KARMA BOOST TOOL")    
+os.system(f"title SOLVE BOOST TOOL")    
 fingerprints = json.load(open("fingerprints.json", encoding="utf-8"))
 
 
@@ -429,8 +430,8 @@ print(f'''{Style.BRIGHT}{Fore.CYAN} {Fore.MAGENTA}
                                              
                                               ┌────────────────────────┐             
                                               │       By @solve        │
-                                              │ Github.com/internalvpn │
-                                              │     fraud.lol/solve    │                                                                                         
+                                              │ Github.com/imsolve │
+                                              │     guns.lol/solve    │                                                                                         
                                               └────────────────────────┘                              ''')	
                   
 def boost_menu():
