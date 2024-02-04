@@ -1,9 +1,9 @@
 <h1 align="center">
-  
+Please Activate Your Brain Before Using This.  
 </h1>
 
 <h2 align="center">
-  Please Activate Your Brain Before Using This.
+  Discord-Boost-Tool
 </h2>
 
 ![image](https://i.imgur.com/WQMh0N0.png) 
