@@ -6,7 +6,7 @@
   Remember This Boost Tool ONLY allows you to boost servers if you have nitro tokens!
 </h2>
 
-![image](https://i.ibb.co/cN6QwD3/ima3434ge.webp) 
+![image]() 
 
 <h3 align="center">
 Please ⭐ This Repo If You Like It!
