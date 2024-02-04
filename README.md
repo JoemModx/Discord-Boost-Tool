@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  Remember This Boost Tool ONLY allows you to boost servers if you have nitro tokens!
+  Please Activate Your Brain Before Using This.
 </h2>
 
 ![image](https://i.imgur.com/WQMh0N0.png) 
