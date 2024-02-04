@@ -27,7 +27,7 @@ Download Python here: [DOWNLOAD](https://www.python.org/downloads/)
 
 
 ### Requirements:
-- [x] - **Windows 10 / 11**
-- [x] - **Python** [DOWNLOAD](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe)
-- [x] - **Capmonster key** 
-- [ ] - **Your own proxies (I recommend paid proxies but free works)**
+ - **Windows 10 / 11**
+ - **Python** [DOWNLOAD](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe)
+ - **Capmonster key** 
+ - **Your own proxies (I recommend paid proxies but free works)**
