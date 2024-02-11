@@ -3,6 +3,6 @@
     "activity": "",
     "server_nick": "",
     "change_server_nick": true,
-    "proxyless": true,
+    "proxyless": false,
     "license_key": "9Reigns-ToolY-COID5M"
 }
